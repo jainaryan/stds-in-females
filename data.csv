@@ -1,0 +1,8 @@
+svm_grid_search,0.8536585365853658
+svm_random_search,0.8414634146341463
+xgboost_grid_search,0.8536585365853658
+xgboost_random_search,0.8536585365853658
+logistic_regression_grid_search,0.8780487804878049
+logistic_regression_random_search,0.8780487804878049
+knn_grid_search,0.8292682926829268
+knn_random_search,0.8170731707317073
